@@ -1,0 +1,12 @@
+<mvc:View
+	controllerName="shambles.demo.controller.Master"
+	xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:custom="shambles.demo.control">
+	<App id="idAppControl">
+	<custom:scDateTime
+		id="scDateTime">
+	</custom:scDateTime>
+</App>
+</mvc:View>
